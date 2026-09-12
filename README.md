@@ -21,7 +21,7 @@
 ```bash
 pkg update
 pkg install python git
-git clone <رابط-المشروع>
+git clone https://github.com/yassine-oz-24/App.git
 cd pychat
 python -m pip install -r requirements.txt
 python chat_app.py
